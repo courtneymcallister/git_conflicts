@@ -10,4 +10,8 @@ grown up grilled cheese
 
 
 ---
+<<<<<<< HEAD
 # Chapter 7
+=======
+#Chapter 1
+>>>>>>> chapter1
