@@ -1,5 +1,5 @@
 here is some nonsense
-
+Title of book
 ---
 
 lorem ipsum samuel l jackson
@@ -12,8 +12,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 dlaf
 
 ---
-<<<<<<< HEAD
+grown up grilled cheese
+
+---
+# Chapter 1
 # Chapter 7
-=======
-#Chapter 1
->>>>>>> chapter1
+
+This is the worst book I've ever read
