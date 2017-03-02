@@ -1,17 +1,16 @@
 here is some nonsense
-
+Title of book
 ---
 
 lorem ipsum samuel l jackson
 
 ---
-
+---
 grown up grilled cheese
 
 
 ---
-<<<<<<< HEAD
+# Chapter 1
 # Chapter 7
-=======
-#Chapter 1
->>>>>>> chapter1
+
+This is the worst book I've ever read
